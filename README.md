@@ -49,4 +49,6 @@ npm test
 
 - [Nombre Apellido]
 - Ivan Paolillo
+- Sergio Fabian Lopez Bernaldo
+- [Nombre Apellido]
 - [Nombre Apellido]
