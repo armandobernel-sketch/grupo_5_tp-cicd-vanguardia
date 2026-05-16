@@ -36,7 +36,7 @@ El workflow configurado en `.github/workflows/test.yml` se activa automáticamen
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/[usuario]/grupo_x_tp-cicd-vanguardia
+git clone https://github.com/armandobernel-sketch/grupo_5_tp-cicd-vanguardia.git
 
 # Instalar dependencias
 npm install
