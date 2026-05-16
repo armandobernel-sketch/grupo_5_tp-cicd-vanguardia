@@ -47,7 +47,7 @@ npm test
 
 ## Integrantes del grupo
 
-- [Nombre Apellido]
+- [Vanesa Macedo]
 - Ivan Paolillo
 - Sergio Fabian Lopez Bernaldo
 - Franco Agustin Jimenez Copati
