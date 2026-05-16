@@ -50,3 +50,4 @@ npm test
 - [Nombre Apellido]
 - Ivan Paolillo
 - [Nombre Apellido]
+- Sebastian Bernel
